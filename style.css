@@ -1,0 +1,52 @@
+body
+{
+	background: teal;
+	
+}
+h1{
+     color: black;
+	 font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#player1_name_input, #player2_name_input{
+	color: black;
+	border-color: mediumblue;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+button{
+	text-align: center;
+	background-color: lightcoral;
+}
+	.login_div1 , .login_div2
+	{
+		background-color: lavender;
+		padding: 30px;
+        margin-bottom: 20px;
+		float: none;
+		border-style: dotted;
+		border-color: #ee1a5d;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+    margin-bottom: 30px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output{
+	background: white;
+	border-radius: 10px;
+	border-top: 10px solid thistle;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
